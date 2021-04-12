@@ -1,2 +1,0 @@
-# kodymer.github.io
-Blog
